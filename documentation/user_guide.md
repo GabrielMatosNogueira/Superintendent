@@ -20,7 +20,7 @@ Cortana/                               # Root directory of the project
 │
 ├── project_documentation/             # Project documentation
 │   ├── README.md                      # Main project documentation file
-│   └── user_guide.md                  # User guide
+│   └── user_guide.md                  # This user guide
 │
 ├── LICENSE                            # License file for the project
 └── project_resources/                 # Resources like images, icons, etc.
